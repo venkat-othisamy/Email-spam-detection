@@ -9,7 +9,7 @@ Built two sets of models to
 Used as many algorithms as possible and optimized the models to see the performace comparision.
 
 ### Accuracy.ipynb
-Models that are optimized for maximum accuracy
+Includes models that are optimized for maximum accuracy
 
 ### Mis-classification-cost.ipynb
-Models that are optimized for minimum misclassification cost
+Includes models that are optimized for minimum misclassification cost
