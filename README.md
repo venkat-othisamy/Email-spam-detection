@@ -1,4 +1,4 @@
-# email-spam-detection
+# Email spam detection
 A project to predict whether the emails are spams or not. Have historical data.
 
 Built two sets of models to
