@@ -6,7 +6,7 @@ Built two sets of models to
 <li>Reduce the mis-classification cost</li><br>
 <p>Wrote codes to visualize ROC curve, Cumulative Response curve and Lift curve as Python doesn't have any inbuilt libraries to visualize them.</p>
 
-Used as many algorithms as possible and optimized the models to see the performace comparision.
+Used as many algorithms as possible and optimized the models to see performace comparision.
 
 ### Accuracy.ipynb
 Includes models that are optimized for maximum accuracy
